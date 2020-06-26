@@ -63,6 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UILearning\Tools\UITool.cs" />
+    <Compile Include="Assets\UILearning\Tools\UnityTool.cs" />
+    <Compile Include="Assets\UILearning\UIControl.cs" />
     <Compile Include="Assets\UIProceedManager\Script\UIManager.cs" />
     <Compile Include="Assets\UIProceedManager\Script\UIState.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

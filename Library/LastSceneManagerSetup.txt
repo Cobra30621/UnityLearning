@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UILearning/UILearning.unity
+  isLoaded: 1
+  isActive: 1
