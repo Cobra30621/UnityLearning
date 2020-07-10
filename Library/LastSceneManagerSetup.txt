@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UILearning/UILearning.unity
+- path: Assets/FruitCards/FruitCards.unity
   isLoaded: 1
   isActive: 1

@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{32735DBE-EA04-BA93-51D8-1BE73F9E6252}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UILearning/UIControl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FruitCards/GameController.cs">
     <Files>
-      <File FileName="Assets/UILearning/UIControl.cs" Line="50" Column="6" />
+      <File FileName="Assets/UILearning/UIControl.cs" Line="13" Column="1" />
+      <File FileName="Assets/FruitCards/Card.cs" Line="53" Column="2" />
+      <File FileName="Assets/FruitCards/GameController.cs" Line="41" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="65b414f7-4f8e-4d8b-904b-fd43e0938d1a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="292c14bd-776f-4b7b-8265-8059fdf9cb59" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
