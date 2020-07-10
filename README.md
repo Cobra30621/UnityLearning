@@ -12,3 +12,19 @@
 ## 0710 FruitCard
 - 翻牌遊戲
 - [Unity 小遊戲 2D 教學 記憶翻牌 水果配對](https://www.youtube.com/watch?v=8w_T0LXeg2Q)
+
+### 有意思：Enum轉List
+    void SetUpCardsToBEPutIn() // Enum轉List
+    {
+        Array array = Enum.GetValues(typeof(CardPatten)); 
+        for (int i = 0; i < 2; i++)
+        {
+            foreach (var item in array)
+            {
+                cardsToBePutIn.Add((CardPatten)item);
+            }
+        }
+        cardsToBePutIn.RemoveAt(9); // 把None刪掉
+        cardsToBePutIn.RemoveAt(0); // 把None刪掉
+
+    }
