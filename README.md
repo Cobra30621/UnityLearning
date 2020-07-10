@@ -9,3 +9,6 @@
 - UItool
   - 功能詳情[設計模式與遊戲開發的完美結合](https://hackmd.io/@uspdtu0FT9eHVAsX5kZKeg/B1mRVedfL/%2FexljTljoS4-dHdQ7k-dFkw)
  
+## 0710 FruitCard
+- 翻牌遊戲
+- [Unity 小遊戲 2D 教學 記憶翻牌 水果配對](https://www.youtube.com/watch?v=8w_T0LXeg2Q)
